@@ -4258,13 +4258,7 @@ body.is-preload #banner p {
   z-index: 999;
 }
 
-/* #rightImage  
-{  
-  height:275px;  
-  float:left;  
-  position:relative;  
-}  
-#rightImage:hover img  
-{  
-  height: 300px;  
-} */
+.try {
+  display: flex;
+  justify-content: space-evenly;
+}
