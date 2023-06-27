@@ -1,9 +1,15 @@
 (function ($) {
   //typing animation script
   var typed = new Typed(".typing", {
-    strings: ["              ", "Web Developer", "Geologist", "Freelancer"],
+    strings: [
+      "              ",
+      "Web Developer",
+      "Go-Getter",
+      "Geek",
+      "Geologist",
+    ],
     typeSpeed: 50,
-    backSpeed: 55,
+    backSpeed: 40,
     loop: true,
   });
 
